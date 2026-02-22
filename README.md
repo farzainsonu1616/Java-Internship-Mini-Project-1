@@ -26,5 +26,5 @@ The system loads questions from a MySQL database, evaluates answers, and display
 4. Login using valid credentials.
 5. Attempt the quiz.
 
-## Author
-Mini Project – Online Quiz System
+## Developed By
+- FARZAIN KHAN B
