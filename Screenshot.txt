@@ -1,0 +1,21 @@
+Screenshots to include in the project report:
+
+1. Login Page
+   - Shows username and password fields
+   - Centered login card UI
+
+2. Quiz Screen
+   - Question displayed clearly
+   - Options with radio buttons
+   - Timer running at top
+
+3. Result Popup
+   - Final score display after quiz completion
+
+4. Database Tables
+   - users table
+   - quizzes table
+   - questions table
+   - results table
+
+(Insert actual screenshots in your submission folder.)
